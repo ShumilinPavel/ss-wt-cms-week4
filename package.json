@@ -1,0 +1,20 @@
+{
+  "name": "ss-wt-cms-week4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShumilinPavel/ss-wt-cms-week4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShumilinPavel/ss-wt-cms-week4/issues"
+  },
+  "homepage": "https://github.com/ShumilinPavel/ss-wt-cms-week4#readme"
+}
